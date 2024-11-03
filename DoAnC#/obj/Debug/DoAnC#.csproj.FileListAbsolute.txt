@@ -1,0 +1,159 @@
+D:\DoAnC#\DoAnC#\bin\Debug\DoAnC#.exe.config
+D:\DoAnC#\DoAnC#\bin\Debug\DoAnC#.exe
+D:\DoAnC#\DoAnC#\bin\Debug\DoAnC#.pdb
+D:\DoAnC#\DoAnC#\bin\Debug\Guna.UI2.dll
+D:\DoAnC#\DoAnC#\obj\Debug\DoAnC#.csproj.AssemblyReference.cache
+D:\DoAnC#\DoAnC#\obj\Debug\DoAnC_.Properties.Resources.resources
+D:\DoAnC#\DoAnC#\obj\Debug\DoAnC_.UI.FrmDSMon.resources
+D:\DoAnC#\DoAnC#\obj\Debug\DoAnC_.UI.FrmKetNoi.resources
+D:\DoAnC#\DoAnC#\obj\Debug\DoAnC_.UI.FrmLogin.resources
+D:\DoAnC#\DoAnC#\obj\Debug\DoAnC_.UI.FrmOrderManagement.resources
+D:\DoAnC#\DoAnC#\obj\Debug\DoAnC_.UI.UI_UserControl.ButtonProduct.resources
+D:\DoAnC#\DoAnC#\obj\Debug\DoAnC#.csproj.GenerateResource.cache
+D:\DoAnC#\DoAnC#\obj\Debug\DoAnC#.csproj.CoreCompileInputs.cache
+D:\DoAnC#\DoAnC#\obj\Debug\DoAnC#.csproj.Up2Date
+D:\DoAnC#\DoAnC#\obj\Debug\DoAnC#.exe
+D:\DoAnC#\DoAnC#\obj\Debug\DoAnC#.pdb
+C:\Users\lebla\Downloads\DoanC--master (1)\DoanC--master\DoAnC#\bin\Debug\DoAnC#.exe.config
+C:\Users\lebla\Downloads\DoanC--master (1)\DoanC--master\DoAnC#\bin\Debug\DoAnC#.exe
+C:\Users\lebla\Downloads\DoanC--master (1)\DoanC--master\DoAnC#\bin\Debug\DoAnC#.pdb
+C:\Users\lebla\Downloads\DoanC--master (1)\DoanC--master\DoAnC#\bin\Debug\Guna.UI2.dll
+C:\Users\lebla\Downloads\DoanC--master (1)\DoanC--master\DoAnC#\obj\Debug\DoAnC#.csproj.AssemblyReference.cache
+C:\Users\lebla\Downloads\DoanC--master (1)\DoanC--master\DoAnC#\obj\Debug\DoAnC_.Properties.Resources.resources
+C:\Users\lebla\Downloads\DoanC--master (1)\DoanC--master\DoAnC#\obj\Debug\DoAnC_.UI.FrmDSMon.resources
+C:\Users\lebla\Downloads\DoanC--master (1)\DoanC--master\DoAnC#\obj\Debug\DoAnC_.UI.FrmKetNoi.resources
+C:\Users\lebla\Downloads\DoanC--master (1)\DoanC--master\DoAnC#\obj\Debug\DoAnC_.UI.FrmLogin.resources
+C:\Users\lebla\Downloads\DoanC--master (1)\DoanC--master\DoAnC#\obj\Debug\DoAnC_.UI.FrmOrderManagement.resources
+C:\Users\lebla\Downloads\DoanC--master (1)\DoanC--master\DoAnC#\obj\Debug\DoAnC_.UI.UI_UserControl.ButtonProduct.resources
+C:\Users\lebla\Downloads\DoanC--master (1)\DoanC--master\DoAnC#\obj\Debug\DoAnC#.csproj.GenerateResource.cache
+C:\Users\lebla\Downloads\DoanC--master (1)\DoanC--master\DoAnC#\obj\Debug\DoAnC#.csproj.CoreCompileInputs.cache
+C:\Users\lebla\Downloads\DoanC--master (1)\DoanC--master\DoAnC#\obj\Debug\DoAnC#.csproj.Up2Date
+C:\Users\lebla\Downloads\DoanC--master (1)\DoanC--master\DoAnC#\obj\Debug\DoAnC#.exe
+C:\Users\lebla\Downloads\DoanC--master (1)\DoanC--master\DoAnC#\obj\Debug\DoAnC#.pdb
+C:\Users\lebla\Downloads\DoanC--master (1)\DoanC--master\DoAnC#\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\lebla\Downloads\DoanC--master (1)\DoanC--master\DoAnC#\obj\Debug\DoAnC_.UI.FrmThongKe.resources
+C:\Users\lebla\Downloads\DoanC--master (1)\DoanC--master\DoAnC#\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\lebla\Downloads\DoanC--master (1)\DoanC--master\DoAnC#\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\lebla\Downloads\DoanC--master (1)\DoanC--master\DoAnC#\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\lebla\Downloads\DoanC--master (1)\DoanC--master\DoAnC#\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\lebla\Downloads\DoanC--master (1)\DoanC--master\DoAnC#\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\lebla\Downloads\DoanC--master (1)\DoanC--master\DoAnC#\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\lebla\Downloads\DoanC--master (1)\DoanC--master\DoAnC#\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\lebla\Downloads\DoanC--master (1)\DoanC--master\DoAnC#\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\lebla\Downloads\DoanC--master (1)\DoanC--master\DoAnC#\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\lebla\Downloads\DoanC--master (1)\DoanC--master\DoAnC#\bin\Debug\EnvDTE.dll
+C:\Users\lebla\Downloads\DoanC--master (1)\DoanC--master\DoAnC#\bin\Debug\stdole.dll
+C:\Users\lebla\Downloads\DoanC--master (1)\DoanC--master\DoAnC#\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lebla\Downloads\DoanC--master (1)\DoanC--master\DoAnC#\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lebla\Downloads\DoanC--master (1)\DoanC--master\DoAnC#\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lebla\Downloads\DoanC--master (1)\DoanC--master\DoAnC#\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lebla\Downloads\DoanC--master (1)\DoanC--master\DoAnC#\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lebla\Downloads\DoanC--master (1)\DoanC--master\DoAnC#\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lebla\Downloads\DoanC--master (1)\DoanC--master\DoAnC#\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lebla\Downloads\DoanC--master (1)\DoanC--master\DoAnC#\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lebla\Downloads\DoanC--master (1)\DoanC--master\DoAnC#\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lebla\Downloads\DoanC--master (1)\DoanC--master\DoAnC#\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lebla\Downloads\DoanC--master (1)\DoanC--master\DoAnC#\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lebla\Downloads\DoanC--master (1)\DoanC--master\DoAnC#\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lebla\Downloads\DoanC--master (1)\DoanC--master\DoAnC#\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lebla\Downloads\DoanC--master (1)\DoanC--master\DoAnC#\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lebla\Downloads\DoanC--master (1)\DoanC--master\DoAnC#\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lebla\Downloads\DoanC--master (1)\DoanC--master\DoAnC#\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lebla\Downloads\DoanC--master (1)\DoanC--master\DoAnC#\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lebla\Downloads\DoanC--master (1)\DoanC--master\DoAnC#\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lebla\Downloads\DoanC--master (1)\DoanC--master\DoAnC#\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lebla\Downloads\DoanC--master (1)\DoanC--master\DoAnC#\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lebla\Downloads\DoanC--master (1)\DoanC--master\DoAnC#\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lebla\Downloads\DoanC--master (1)\DoanC--master\DoAnC#\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lebla\Downloads\DoanC--master (1)\DoanC--master\DoAnC#\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lebla\Downloads\DoanC--master (1)\DoanC--master\DoAnC#\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lebla\Downloads\DoanC--master (1)\DoanC--master\DoAnC#\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lebla\Downloads\DoanC--master (1)\DoanC--master\DoAnC#\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lebla\Downloads\DoanC--master (1)\DoanC--master\DoAnC#\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lebla\Downloads\DoanC--master (1)\DoanC--master\DoAnC#\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lebla\Downloads\DoanC--master (1)\DoanC--master\DoAnC#\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lebla\Downloads\DoanC--master (1)\DoanC--master\DoAnC#\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lebla\Downloads\DoanC--master (1)\DoanC--master\DoAnC#\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lebla\Downloads\DoanC--master (1)\DoanC--master\DoAnC#\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lebla\Downloads\DoanC--master (1)\DoanC--master\DoAnC#\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lebla\Downloads\DoanC--master (1)\DoanC--master\DoAnC#\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lebla\Downloads\DoanC--master (1)\DoanC--master\DoAnC#\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lebla\Downloads\DoanC--master (1)\DoanC--master\DoAnC#\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lebla\Downloads\DoanC--master (1)\DoanC--master\DoAnC#\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lebla\Downloads\DoanC--master (1)\DoanC--master\DoAnC#\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lebla\Downloads\DoanC--master (1)\DoanC--master\DoAnC#\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lebla\Downloads\DoanC--master (1)\DoanC--master\DoAnC#\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lebla\Downloads\DoanC--master (1)\DoanC--master\DoAnC#\obj\Debug\DoAnC_.Report.FrmReport.resources
+D:\BTPhuXuan\BT C#\DoAn_C_Sharp-master\DoAnC#\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\BTPhuXuan\BT C#\DoAn_C_Sharp-master\DoAnC#\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\BTPhuXuan\BT C#\DoAn_C_Sharp-master\DoAnC#\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\BTPhuXuan\BT C#\DoAn_C_Sharp-master\DoAnC#\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\BTPhuXuan\BT C#\DoAn_C_Sharp-master\DoAnC#\bin\Debug\DoAnC#.exe.config
+D:\BTPhuXuan\BT C#\DoAn_C_Sharp-master\DoAnC#\bin\Debug\DoAnC#.exe
+D:\BTPhuXuan\BT C#\DoAn_C_Sharp-master\DoAnC#\bin\Debug\DoAnC#.pdb
+D:\BTPhuXuan\BT C#\DoAn_C_Sharp-master\DoAnC#\bin\Debug\Guna.UI2.dll
+D:\BTPhuXuan\BT C#\DoAn_C_Sharp-master\DoAnC#\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\BTPhuXuan\BT C#\DoAn_C_Sharp-master\DoAnC#\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\BTPhuXuan\BT C#\DoAn_C_Sharp-master\DoAnC#\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\BTPhuXuan\BT C#\DoAn_C_Sharp-master\DoAnC#\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\BTPhuXuan\BT C#\DoAn_C_Sharp-master\DoAnC#\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\BTPhuXuan\BT C#\DoAn_C_Sharp-master\DoAnC#\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\BTPhuXuan\BT C#\DoAn_C_Sharp-master\DoAnC#\bin\Debug\EnvDTE.dll
+D:\BTPhuXuan\BT C#\DoAn_C_Sharp-master\DoAnC#\bin\Debug\stdole.dll
+D:\BTPhuXuan\BT C#\DoAn_C_Sharp-master\DoAnC#\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\BTPhuXuan\BT C#\DoAn_C_Sharp-master\DoAnC#\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\BTPhuXuan\BT C#\DoAn_C_Sharp-master\DoAnC#\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\BTPhuXuan\BT C#\DoAn_C_Sharp-master\DoAnC#\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\BTPhuXuan\BT C#\DoAn_C_Sharp-master\DoAnC#\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\BTPhuXuan\BT C#\DoAn_C_Sharp-master\DoAnC#\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\BTPhuXuan\BT C#\DoAn_C_Sharp-master\DoAnC#\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\BTPhuXuan\BT C#\DoAn_C_Sharp-master\DoAnC#\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\BTPhuXuan\BT C#\DoAn_C_Sharp-master\DoAnC#\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\BTPhuXuan\BT C#\DoAn_C_Sharp-master\DoAnC#\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\BTPhuXuan\BT C#\DoAn_C_Sharp-master\DoAnC#\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BTPhuXuan\BT C#\DoAn_C_Sharp-master\DoAnC#\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BTPhuXuan\BT C#\DoAn_C_Sharp-master\DoAnC#\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BTPhuXuan\BT C#\DoAn_C_Sharp-master\DoAnC#\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BTPhuXuan\BT C#\DoAn_C_Sharp-master\DoAnC#\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BTPhuXuan\BT C#\DoAn_C_Sharp-master\DoAnC#\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BTPhuXuan\BT C#\DoAn_C_Sharp-master\DoAnC#\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BTPhuXuan\BT C#\DoAn_C_Sharp-master\DoAnC#\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BTPhuXuan\BT C#\DoAn_C_Sharp-master\DoAnC#\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BTPhuXuan\BT C#\DoAn_C_Sharp-master\DoAnC#\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BTPhuXuan\BT C#\DoAn_C_Sharp-master\DoAnC#\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\BTPhuXuan\BT C#\DoAn_C_Sharp-master\DoAnC#\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\BTPhuXuan\BT C#\DoAn_C_Sharp-master\DoAnC#\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\BTPhuXuan\BT C#\DoAn_C_Sharp-master\DoAnC#\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\BTPhuXuan\BT C#\DoAn_C_Sharp-master\DoAnC#\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\BTPhuXuan\BT C#\DoAn_C_Sharp-master\DoAnC#\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\BTPhuXuan\BT C#\DoAn_C_Sharp-master\DoAnC#\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\BTPhuXuan\BT C#\DoAn_C_Sharp-master\DoAnC#\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\BTPhuXuan\BT C#\DoAn_C_Sharp-master\DoAnC#\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\BTPhuXuan\BT C#\DoAn_C_Sharp-master\DoAnC#\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\BTPhuXuan\BT C#\DoAn_C_Sharp-master\DoAnC#\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BTPhuXuan\BT C#\DoAn_C_Sharp-master\DoAnC#\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BTPhuXuan\BT C#\DoAn_C_Sharp-master\DoAnC#\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BTPhuXuan\BT C#\DoAn_C_Sharp-master\DoAnC#\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BTPhuXuan\BT C#\DoAn_C_Sharp-master\DoAnC#\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BTPhuXuan\BT C#\DoAn_C_Sharp-master\DoAnC#\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BTPhuXuan\BT C#\DoAn_C_Sharp-master\DoAnC#\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BTPhuXuan\BT C#\DoAn_C_Sharp-master\DoAnC#\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BTPhuXuan\BT C#\DoAn_C_Sharp-master\DoAnC#\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BTPhuXuan\BT C#\DoAn_C_Sharp-master\DoAnC#\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BTPhuXuan\BT C#\DoAn_C_Sharp-master\DoAnC#\obj\Debug\DoAnC#.csproj.AssemblyReference.cache
+D:\BTPhuXuan\BT C#\DoAn_C_Sharp-master\DoAnC#\obj\Debug\DoAnC_.Properties.Resources.resources
+D:\BTPhuXuan\BT C#\DoAn_C_Sharp-master\DoAnC#\obj\Debug\DoAnC_.Report.FrmReport.resources
+D:\BTPhuXuan\BT C#\DoAn_C_Sharp-master\DoAnC#\obj\Debug\DoAnC_.UI.FrmDSMon.resources
+D:\BTPhuXuan\BT C#\DoAn_C_Sharp-master\DoAnC#\obj\Debug\DoAnC_.UI.FrmKetNoi.resources
+D:\BTPhuXuan\BT C#\DoAn_C_Sharp-master\DoAnC#\obj\Debug\DoAnC_.UI.FrmLogin.resources
+D:\BTPhuXuan\BT C#\DoAn_C_Sharp-master\DoAnC#\obj\Debug\DoAnC_.UI.FrmOrderManagement.resources
+D:\BTPhuXuan\BT C#\DoAn_C_Sharp-master\DoAnC#\obj\Debug\DoAnC_.UI.FrmThongKe.resources
+D:\BTPhuXuan\BT C#\DoAn_C_Sharp-master\DoAnC#\obj\Debug\DoAnC_.UI.UI_UserControl.ButtonProduct.resources
+D:\BTPhuXuan\BT C#\DoAn_C_Sharp-master\DoAnC#\obj\Debug\DoAnC#.csproj.GenerateResource.cache
+D:\BTPhuXuan\BT C#\DoAn_C_Sharp-master\DoAnC#\obj\Debug\DoAnC#.csproj.CoreCompileInputs.cache
+D:\BTPhuXuan\BT C#\DoAn_C_Sharp-master\DoAnC#\obj\Debug\DoAnC#.csproj.Up2Date
+D:\BTPhuXuan\BT C#\DoAn_C_Sharp-master\DoAnC#\obj\Debug\DoAnC#.exe
+D:\BTPhuXuan\BT C#\DoAn_C_Sharp-master\DoAnC#\obj\Debug\DoAnC#.pdb
+D:\BTPhuXuan\BT C#\DoAn_C_Sharp-master\DoAnC#\obj\Debug\DoAnC_.UI.UC_FrmNhanVien.resources
+D:\BTPhuXuan\BT C#\DoAn_C_Sharp-master\DoAnC#\obj\Debug\DoAnC_.UI.UC_FrmHoaDon.resources
+D:\BTPhuXuan\BT C#\DoAn_C_Sharp-master\DoAnC#\obj\Debug\DoAnC_.UI.UC_FrmKhanhHang.resources
